@@ -9,6 +9,14 @@ An enterprise-ready automated CI/CD pipeline built using **Azure DevOps Pipeline
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kkhansameer94/CodeAlpha_CI-CD-pipeline-using-Azure/main/src/app.py" alt="Azure Architecture Workflow" width="700"/>
+</p>
+
+---
+
 ## 📌 Architecture & Deliverables
 
 * **Source Control**: GitHub repository integration triggering automated builds on `main`.
